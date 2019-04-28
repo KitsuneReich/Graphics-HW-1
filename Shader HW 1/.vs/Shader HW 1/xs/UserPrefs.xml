@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{79A24925-2123-0AAC-7CBA-8418707D377D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Phong.shader">
+    <Files>
+      <File FileName="Assets/PhongTexture.shader" Line="17" Column="11" />
+      <File FileName="Assets/Phong.shader" Line="17" Column="1" />
+      <File FileName="Assets/VertexRotation.shader" Line="58" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
