@@ -60,7 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\manager.cs" />
+    <Compile Include="Assets\Scripts\manager.cs" />
     <Compile Include="Assets\Scripts\MouseInput.cs" />
     <Compile Include="Assets\Scripts\moveLight.cs" />
     <Compile Include="Assets\Scripts\PingPong_CellularAutomata.cs" />
