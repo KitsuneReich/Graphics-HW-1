@@ -14,7 +14,7 @@ Three point lights are used in the scene which oscillate back and forth on eithe
 
 ## Part B:
 
-![Part B Screenshot](Images/Part%20B.png)
+![Part B Screenshot](Images/Part%20B%20.png)
 
 A scene in unity which uses a shader to create a blurred effect on the texture applied to a plane. Two buttons on the side of the plane will either increase or decrease the blurring effect when clicked. 
 
