@@ -62,9 +62,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MouseInput.cs" />
     <Compile Include="Assets\Scripts\moveLight.cs" />
+    <Compile Include="Assets\Scripts\PingPong_CellularAutomata.cs" />
     <Compile Include="Assets\Scripts\rotateModel.cs" />
+    <None Include="Assets\Shaders\OutputTexture.shader" />
     <None Include="Assets\Shaders\Blur.shader" />
     <None Include="Assets\Shaders\PhongTexture.shader" />
+    <None Include="Assets\Shaders\RenderToTexture_CA.shader" />
     <None Include="Assets\Shaders\Phong.shader" />
     <None Include="Assets\Shaders\VertexRotation.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">

@@ -15,3 +15,5 @@ Three point lights are used in the scene which oscillate back and forth on eithe
 A scene in unity which uses a shader to create a blurred effect on the texture applied to a plane. Two buttons on the side of the plane will either increase or decrease the blurring effect when clicked. 
 
 ## Part C:
+
+A scene in unity which displays a Game of Life cellular automata shader upon a cube. Cells that are alive are colored blue, cells that have recently come back to life are colored green, and cells that are dead are colored red. The cellular automata shader handles the determination of which cells are alive/dead and then the information is passed to the output shader which actually prints that color information to the screen. 
