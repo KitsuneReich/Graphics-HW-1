@@ -2,7 +2,7 @@
 
 ## Part A:
 
-![Part A Screenshot](Images/Part A.png)
+![Part A Screenshot](Images/Part%20A.png)
 
 A scene in unity which has three different objects, three distinct lights, and three different shaders applied. The bear object on the far left has a vertex displacement shader rotating the object which also changes the color of the bear based on normals.  
 
@@ -14,12 +14,12 @@ Three point lights are used in the scene which oscillate back and forth on eithe
 
 ## Part B:
 
-![Part B Screenshot](Images/Part B .png)
+![Part B Screenshot](Images/Part%20B.png)
 
 A scene in unity which uses a shader to create a blurred effect on the texture applied to a plane. Two buttons on the side of the plane will either increase or decrease the blurring effect when clicked. 
 
 ## Part C:
 
-![Part C Screenshot](Images/Part C.png)
+![Part C Screenshot](Images/Part%20C.png)
 
 A scene in unity which displays a Game of Life cellular automata shader upon a cube. Cells that are alive are colored blue, cells that have recently come back to life are colored green, and cells that are dead are colored red. The cellular automata shader handles the determination of which cells are alive/dead and then the information is passed to the output shader which actually prints that color information to the screen. 
