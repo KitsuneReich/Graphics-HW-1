@@ -60,11 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\moveLight.cs" />
-    <Compile Include="Assets\rotateModel.cs" />
-    <None Include="Assets\PhongTexture.shader" />
-    <None Include="Assets\Phong.shader" />
-    <None Include="Assets\VertexRotation.shader" />
+    <Compile Include="Assets\Scripts\MouseInput.cs" />
+    <Compile Include="Assets\Scripts\moveLight.cs" />
+    <Compile Include="Assets\Scripts\rotateModel.cs" />
+    <None Include="Assets\Shaders\Blur.shader" />
+    <None Include="Assets\Shaders\PhongTexture.shader" />
+    <None Include="Assets\Shaders\Phong.shader" />
+    <None Include="Assets\Shaders\VertexRotation.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/FOXDIE/Documents/CMPM 163/HW 1/Shader HW 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
